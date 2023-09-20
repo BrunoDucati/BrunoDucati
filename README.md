@@ -4,7 +4,7 @@ Hi there, I'm [Bruno Ducati Vazquez] 👋
 I'm a passionate and adaptable software engineer with over a year of experience in cloud computing, front-end, and back-end development. My journey in the world of technology has been an exciting one, and I'm constantly striving to expand my skills and explore new horizons.
 
     🔭 I’m currently working on MDM developer
-    🌱 I’m currently learning Cloud/ software engineer techologies 
+    🌱 I’m currently learning Cloud/DevOps
     👯 I’m looking to collaborate on open-source projects
     💬 Ask me about fullstack related.
     📫 How to reach me: https://www.linkedin.com/in/bruno-ducati-vazquez-99824a20a/
@@ -27,13 +27,13 @@ My tech journey started with my college bachelors degree of computer science and
 
 I'm passionate about creating elegant and efficient solutions to complex problems. Here are some areas I'm particularly excited about:
 
-    Cloud Computing: I love building scalable and reliable cloud solutions. My experience with AWS, Azure, and GCP has allowed me to harness the full potential of the cloud.
+    Cloud Computing: I love building scalable and reliable cloud solutions. My experience with AWS, Azure has allowed me to harness the full potential of the cloud.
 
     Front-end Development: Crafting intuitive user interfaces and delightful user experiences is my forte. I enjoy working with modern front-end libraries and frameworks to bring designs to life.
 
     Back-end Development: Building robust and secure back-end systems is a challenge I embrace. I believe in clean code and maintainable architectures.
 
-    Continuous Learning: Technology is constantly evolving, and I'm committed to staying up-to-date with the latest trends and technologies. I'm currently diving into [mention what you're learning].
+    Continuous Learning: Technology is constantly evolving, and I'm committed to staying up-to-date with the latest trends and technologies. I'm currently diving into DevOps related stacks.
 
 🤝 Let's Connect
 
