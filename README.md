@@ -3,7 +3,7 @@ Hi there, I'm [Bruno Ducati Vazquez] 👋
 
 I'm a passionate and adaptable software engineer with over a year of experience in cloud computing, front-end, and back-end development. My journey in the world of technology has been an exciting one, and I'm constantly striving to expand my skills and explore new horizons.
 
-    🔭 I’m currently working on MDM developer
+    🔭 I’m currently working on software engineer
     🌱 I’m currently learning Cloud/DevOps
     👯 I’m looking to collaborate on open-source projects
     💬 Ask me about fullstack related.
