@@ -1,4 +1,4 @@
-Hi there, I'm [Bruno Ducati Vazquez] 👋
+Hi there, I'm Bruno Ducati Vazquez 👋
 🚀 About Me
 
 I'm a passionate and adaptable software engineer with over a year of experience in cloud computing, front-end, and back-end development. My journey in the world of technology has been an exciting one, and I'm constantly striving to expand my skills and explore new horizons.
